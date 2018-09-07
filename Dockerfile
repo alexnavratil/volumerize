@@ -35,6 +35,7 @@ RUN apk upgrade --update && \
       azure-storage \
       boto \
       lockfile \
+      pexpect \
       paramiko \
       pycryptopp \
       python-keystoneclient \
